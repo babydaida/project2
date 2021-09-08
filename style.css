@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo:wght@900&display=swap');
+#clk {
+    color: white;
+    font-family: 'Exo', sans-serif;
+    font-size: 100px;
+    width: 500px;
+    margin: 100px 0px 0px 500px;
+    text-align: center;
+}
+#date {
+    color: white;
+    font-family: 'Exo', sans-serif;
+    font-size: 20px;
+    width: 500px;
+    margin: 1px 0px 0px 500px;
+    text-align: center;
+}
+body{
+    background-color: black;
+}
